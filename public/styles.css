@@ -1,0 +1,15 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: #e9ebbe;
+  color: #000000;
+}
+
+.Navbar {
+  color: #ffffff;
+  padding: 10px;
+  background: #4167b2;
+}
