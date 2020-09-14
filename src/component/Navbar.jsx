@@ -1,5 +1,5 @@
 import React from "react";
 
 export default function Navbar() {
-  return <header>Facebook</header>;
+  return <header className="Navbar">Facebook</header>;
 }
